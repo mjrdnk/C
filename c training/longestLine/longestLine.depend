@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451639435 source:c:\users\mjrdn\desktop\longestline\main.c
+	<stdio.h>
+	<string.h>
+
+1451639473 source:c:\users\mjrdn\desktop\c\c training\longestline\main.c
+	<stdio.h>
+	<string.h>
+

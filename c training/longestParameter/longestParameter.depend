@@ -8,8 +8,7 @@
 
 1451504528 c:\users\mjrdn\desktop\c\c training\longestparameter\header.h
 
-1451507558 source:c:\users\mjrdn\desktop\c\c training\longestparameter\main.c
+1451642768 source:c:\users\mjrdn\desktop\c\c training\longestparameter\main.c
 	<stdio.h>
-	<stdlib.h>
-	"header.h"
+	<string.h>
 

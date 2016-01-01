@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451658193 source:c:\users\mjrdn\desktop\c\c training\countifstartswithletter\main.c
+	<stdio.h>
+	<stdlib.h>
+

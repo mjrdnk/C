@@ -1,21 +1,21 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(int argc, char *argv[])
+int main()
 {
     int max=0;
-    int len=0, i;
+    int len=0;
     char longest[1000];
-        for(i=1;i<argc;++i)
+    char newline[1000];
+        while(fgets(newline,sizeof(newline)/sizeof(int),stdin)!=NULL)
             {
-                len=strlen(argv[i]);
+                len=strlen(newline);
                 if(len>max)
                     {
                         max=len;
-                        strcpy(longest,argv[i]);
+                        strcpy(longest,newline);
                     }
             }
             printf("%s\n",longest);
     return 0;
 }
-

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451645881 source:c:\users\mjrdn\desktop\c\c training\cmdaverage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
