@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451750877 source:c:\users\mjrdn\desktop\c\c training\printifalfa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
