@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1452172591 source:c:\users\mjrdn\desktop\c\c training\floatfromcommand\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<ctype.h>
-

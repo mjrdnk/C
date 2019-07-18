@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1451553674 source:c:\users\mjrdn\desktop\c\c training\digitorletter\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-

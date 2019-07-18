@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1451821603 source:c:\users\mjrdn\desktop\c\c training\youchoosehowmanyx\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<string.h>
-
